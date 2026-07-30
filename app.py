@@ -28,7 +28,7 @@ MODEL_DIR = Path("modelo_reciclaje_mobilenet")
 
 CLASS_PATH = MODEL_DIR / "class_names.json"
 
-MODEL_PATHS = [MODEL_DIR / "waste_mobilenet.keras", MODEL_DIR / "waste_mobilenet.h5"]
+MODEL_PATHS = [MODEL_DIR / "waste_mobilenet.h5", MODEL_DIR / "waste_mobilenet.keras"]
 
  
 
